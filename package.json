@@ -1,0 +1,13 @@
+{
+  "name": "hidpi",
+  "description": "hidpi() is a Less mixin that automatically serves high resolution graphics to high density (Retina-like) displays.",
+  "author": "swayam patni",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "less": "~1.3.3",
+    "chai": "~1.6.0"
+  }
+}
